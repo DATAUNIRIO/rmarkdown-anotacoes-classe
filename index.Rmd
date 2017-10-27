@@ -1,6 +1,7 @@
 ---
 title: "Uso R Markdown para aula de Estatística da UNIRIO"
 author: "Thiago de Araújo & Steven Dutt Ross"
+date: "27 de outubro de 2017"
 output: 
    html_document:
      theme: flatly
